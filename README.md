@@ -26,8 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/A-Abra/Wishlist/blob/master/Wishlist.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ScreenToGif](https://www.screentogif.com/)
 
 
 ## Notes
